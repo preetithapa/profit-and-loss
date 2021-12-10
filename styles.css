@@ -1,0 +1,43 @@
+body{
+    
+    background-image:url(money.jpeg);
+}
+
+h1:hover{
+    color: rgb(241, 241, 248);
+}
+h1{
+
+ text-align: center;
+ font-size:30px;
+     
+}
+input,label{
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    display: block;
+    margin: auto;
+    font-size: 15px;
+    border-color: rgb(19, 18, 20);
+    
+}
+label{
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    display: block;
+    margin: auto;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background-color: rgb(226, 43, 83);
+    color: aliceblue;
+    font-size: 1rem;
+}
+#output{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
